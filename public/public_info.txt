@@ -1,0 +1,9 @@
+Hello World !
+
+This is the anonymous directory...
+
+If you are in this directory that means you have not entered username and password......
+ 
+This directory does not require username and password.....
+
+Happy coding !

@@ -1,0 +1,7 @@
+Hello World !
+
+This is the directory or path to the username robot.....
+
+If you are able to access this directory you know the password and username for this user......
+
+Happy coding !
